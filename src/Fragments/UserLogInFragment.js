@@ -242,7 +242,7 @@ const SignInFormBase = (props) => {
           }}
         >
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/diola-4f3ff.appspot.com/o/1-diola-logo-new-600x278.png?alt=media&token=20342a9e-3e59-44f6-a955-4c34864c27f5"
+            src="./Extra-green-logo-01.png"
             className={classes.image}
             alt="Logo"
           />
